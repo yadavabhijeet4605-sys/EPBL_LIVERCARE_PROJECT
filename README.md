@@ -57,5 +57,5 @@ Contributions are welcome! Please create a pull request or report issues.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out via email at [omkarpawar1880@gmail.com].
+For any inquiries, reach out via email at [yadavabhijeet4605@gmail.com].
 
